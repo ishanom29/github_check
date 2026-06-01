@@ -5,4 +5,5 @@ console.log(c);
 function add(x, y) {
   return x + y;
   //comment
+  //comment
 }
