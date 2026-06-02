@@ -6,4 +6,5 @@ function add(x, y) {
   return x + y;
   //comment
   //comment
+  //c
 }
