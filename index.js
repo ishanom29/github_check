@@ -7,4 +7,5 @@ function add(x, y) {
   //comment
   //comment
   //c
+  //d
 }
