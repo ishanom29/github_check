@@ -8,4 +8,5 @@ function add(x, y) {
   //comment
   //c
   //d
+  //r
 }
