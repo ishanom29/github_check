@@ -7,6 +7,7 @@ function add(x, y) {
   //comment
   //comment12
   //c
+  //3e1
   //d
   //r
   //tt
